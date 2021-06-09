@@ -9,7 +9,7 @@ In order to do these, I extracted the neccessary data from Wikipedia and Kaggle,
 ### Assumptions
 * Password is defined in config.py file.
 * While appending or inserting data into table assuming data has same column names and also same type.
-* Requirs pandas, sqlalchamy, psycopg2 python libraries.
+* Requires pandas, sqlalchamy, psycopg2 python libraries.
 
 
 ## Results
